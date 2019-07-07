@@ -1,5 +1,5 @@
-# Esto no es README
+Esto no es README
 Este es el fichero README.md
 
-# Rama fix readme
+- Rama fix readme
 En esta rama se meterá la función hello
