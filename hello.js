@@ -1,9 +1,8 @@
-/**
- hello.js
+/*
+//  hello.js
 */
-
-function hello () {
-  console.log("Hello there");
+function sayHello (name="default"){
+  console.log("Hello there: " + name);
 }
 
-hello();
+hello("Juan");
