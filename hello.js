@@ -2,7 +2,8 @@
 //  hello.js
 */
 function sayHello (name="default"){
-  console.log("Hello there: " + name);
+  alert("Hello there: " + name);
+  sayHello("sample");
 }
 
-hello("Juan");
+sayHello("Juan");
